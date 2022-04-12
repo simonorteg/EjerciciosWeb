@@ -7,7 +7,7 @@ body{
    
 }
 .navegador{
-    width:100vw;
+    width:500vw;
     height: 50px;   
     background-color: #972700;  
     box-sizing: border-box;
@@ -79,7 +79,7 @@ h5{
     padding: 55px 25px 0 25px;
     position: relative;
     display: inline-block;
-    margin-inline: 40px;
+    margin-inline: 100px;
     text-align: center;  
     margin-top: 20px; 
   
